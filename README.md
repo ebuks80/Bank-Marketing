@@ -1,1 +1,1 @@
-# Bank-Marketing
+This project is a Data-Driven Approach to Predict the Success of Bank Telemarketing. The binary classification goal is to predict if the client will subscribe a bank term deposit (variable y). I would be carrying out an exploratory analysis on the data, performing some feature engineering, filling null values, then building a neural network model.
